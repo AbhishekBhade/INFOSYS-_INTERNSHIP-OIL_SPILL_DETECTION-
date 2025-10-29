@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+segmentation-models
+opencv-python-headless
+numpy
+Pillow
+scikit-learn
+seaborn
+matplotlib
